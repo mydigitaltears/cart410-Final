@@ -21,7 +21,7 @@
     var audio = new Audio();
     var audio2 = new Audio();
     var audio3 = new Audio();
-    audio3.src = "/source/Audio/radio.mp3";
+    audio3.src = "./source/Audio/radio.mp3";
     audio3.volume = 0.5;
     var sourceAudio = context.createMediaElementSource(audio2);
     var volume = context.createGain();
