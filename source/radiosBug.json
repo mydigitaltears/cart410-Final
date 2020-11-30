@@ -1,0 +1,21 @@
+[
+    {
+        "city":"Honningsvåg", 
+        "Country":"Norway",
+        "id":"radio_nordkapp",
+        "name":"Radio Nordkapp 103.9 FM",
+        "website":"http://www.radionordkapp.no/",
+        "src":"http://185.114.57.55:8000/stream",
+        "loc": [25.97498, 70.98128, 500000],
+        "real-loc": [25.983061, 70.976021, 500000]
+      },
+      {
+        "city":"Kabala", 
+        "Country":"Sierra Leone",
+        "id":"radio_bintumani",
+        "name":"Radio Bintumani FM 93.7",
+        "website":"https://radiobintumanifm937.wordpress.com/",
+        "src":"http://stream.radiojar.com/z740k5q9y4zuv",
+        "loc": [-11.552334, 9.590256, 5000000]
+      }
+]

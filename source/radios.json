@@ -1,0 +1,76 @@
+[
+  {
+    "city":"Montreal", 
+    "country":"Canada",
+    "id":"cibl",
+    "name":"CIBL",
+    "website":"http://cibl1015.com/",
+    "src":"https://stream02.ustream.ca/cibl128.mp3",
+    "loc":[-73.563515, 45.510048, 10000]
+  },
+  {
+    "city":"Bukavu", 
+    "country":"Congo",
+    "id":"mama_radio",
+    "name":"Mama Radio 96.6 FM",
+    "website":"http://radio.dehelp.net/mama-radio/",
+    "src":"https://streams.radio.co/s57cdcd575/listen",
+    "loc":[28.860251, -2.503969, 10000],
+    "real-loc":[28.853090, -2.503160, 1000000]
+  },
+  {
+    "city":"Makeni", 
+    "Country":"Sierra Leone", 
+    "id":"hope_fm",
+    "name":"Hope FM 93.3",
+    "website":"http://www.hopefmsl.com/",
+    "src":"http://46.105.124.113:8175/live",
+    "loc": [-12.037514, 8.872260, 10000]
+  },
+  {
+    "city":"Freetown", 
+    "Country":"Sierra Leone",
+    "id":"radio_democracy",
+    "name":"Radio Democracy FM 98.1",
+    "website":"http://radiodemocracy.sl//",
+    "src":"https://s2.radio.co/sc8ea415ec/listen",
+    "loc": [-13.238852902171814, 8.46626070504989, 10000]
+  },
+  {
+    "city":"Abuja", 
+    "Country":"Nigeria",
+    "id":"human_rights_radio",
+    "name":"Human Rights Radio - FM 101.1",
+    "website":"https://streema.com/radios/Human_Rights_Radio",
+    "src":"http://equinox.shoutca.st:9565/live/",
+    "loc": [7.439527, 9.015254, 10000]
+  },
+  {
+    "city":"Lagos", 
+    "Country":"Nigeria",
+    "id":"nigeria_info",
+    "name":"Nigeria Info FM 99.3",
+    "website":"https://www.nigeriainfo.fm/lagos/",
+    "src":"https://stream.coolwazobiainfo.com/niginf_lag",
+    "loc": [3.437726, 6.432701, 10000]
+  },
+  {
+    "city":"Accra", 
+    "Country":"Ghana",
+    "id":"citi",
+    "name":"Citi FM 97.3",
+    "website":"http://citifmonline.com/",
+    "src":"http://188.165.192.5:8977/stream",
+    "loc": [-0.21469792117339373, 5.562829634856101, 10000]
+  },
+  {
+    "city":"Tarawa", 
+    "Country":"Kiribati",
+    "id":"radio_kiribati",
+    "name":"Radio Kiribati AM 1440",
+    "website":"https://www.facebook.com/kiriradiolive/",
+    "src":"http://streamer3.rightclickitservices.com:9790/stream",
+    "loc": [173.015129, 1.411186, 2000000],
+    "real-loc": [1.4402626535580658, 173.00249108472173, 1000000]
+  }
+]
